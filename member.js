@@ -1,3 +1,0 @@
-function skillsMember() {
-	// function body
-}
